@@ -21,7 +21,7 @@ h1{
 /*001*/
 h1, h3 , h5 {
     font-stretch: expanded;
-    color: #fff;
+    color: black;
     text-transform: uppercase;
     text-align: center;    
     font-size: 3em;
