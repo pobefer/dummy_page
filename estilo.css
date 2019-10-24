@@ -102,8 +102,10 @@ nav{
 
 img {
   border-radius: 8px;
+  position:relative;
 }
 
 video {
   height: auto;
+  position:relative;
 }
